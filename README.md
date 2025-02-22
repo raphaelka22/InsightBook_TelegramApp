@@ -7,11 +7,24 @@ InsightBook_TelegramApp is a mini-app in Telegram that helps users manage their 
 ## 🔥 Features (In Development)  
 - 📚 Catalog of books with summaries  
 - ✅ Mark books as "Read" or "Want to Read"  
-- 💡 Key insights and hidden meanings from books  
+- 💡 Key insights and hidden meanings from books 
 - 📊 Quizzes to enhance understanding  
 - 🗣 Community discussions and book-related chats  
+## 🔥 Features (Development Progress)
 
-## 🛠 Technologies  
+| Feature                         | Status       |
+|---------------------------------|-------------|
+| 📌 GitHub repository created     | ✅ Done |
+| 🖼️ Project banner added         | ✅ Done |
+| 📖 README.md with project info   | ✅ Done |
+| 📚 Book catalog system           | 🔜 Planned |
+| ✅ Mark books as "Read" or "Want to Read" | 🔜 Planned |
+| 💡 Key insights from books       | 🔜 Planned |
+| 📊 Quizzes for book understanding | 🔜 Planned |
+| 🗣️ Community chat & discussions  | 🔜 Planned |
+| 🤖 Telegram bot development      | 🔄 In Development |
+| 🚀 Full app release              | 🔜 Future Update |
+## 🛠 Technologies                                              
 - Python (Aiogram / Telebot) – for the Telegram bot  
 - MongoDB / PostgreSQL – database management  
 - FastAPI – API backend  
