@@ -9,7 +9,7 @@ InsightBook_TelegramApp is a mini-app in Telegram that helps users manage their 
 - ✅ Mark books as "Read" or "Want to Read"  
 - 💡 Key insights and hidden meanings from books 
 - 📊 Quizzes to enhance understanding  
-- 🗣 Community discussions and book-related chats  
+- 🗣 Community discussions and chats related to business, investing, psychology
 ## 🔥 Features (Development Progress)
 
 | Feature                         | Status       |
