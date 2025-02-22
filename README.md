@@ -26,3 +26,4 @@ InsightBook_TelegramApp is a mini-app in Telegram that helps users manage their 
 - Telegram: [@InsightBookClub](https://t.me/InsightBookClub)  
 - Twitter: [@iBookClubX](https://twitter.com/iBookClubX)  
 - Instagram: [@iBookClubX](https://instagram.com/iBookClubX)  
+![InsightBook](https://your-image-url.com/banner.png)
