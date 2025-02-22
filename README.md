@@ -1,3 +1,4 @@
+![InsightBook](https://github.com/raphaelka22/InsightBook_TelegramApp/blob/main/photo_2025-02-22_16-50-24.jpg)
 # InsightBook_TelegramApp 📚🚀
 
 ## 📖 About the Project  
